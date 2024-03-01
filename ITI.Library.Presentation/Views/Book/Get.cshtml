@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+
+
+@model List<Book>
+
+@section Left
+{
+   @if(User.IsInRole("Admin")){
+        <a asp-controller="Book" asp-action="Add" class="btn btn-primary">Add New Book</a>
+   }
+}
+
+<h1>Books List Page</h1>
+
+@if(Model == null || Model.Count==0){
+    <h1>No Books Found</h1>
+}else{
+    foreach(Book b in Model){
+        <h3>Title : </h3>
+        <h4>@b.Title</h4>
+        @if(b.BookImages == null || b.BookImages.Count == 0){
+            <h1>No Images</h1>
+        }else{
+            <img src="@ViewBag.Url/@b.BookImages.FirstOrDefault().Path"/>
+        }
+    }
+}

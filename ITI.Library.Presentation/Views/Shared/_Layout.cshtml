@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<User> SignInManager;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Content/lib/twitter-bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Content/Site.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-2">
+                @RenderSection("Left", false)
+            </div>
+            <div class="col-8">
+                <header>
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <a asp-action="Index" asp-controller="Home">Home</a>
+
+                        <span>|</span>
+                        <a asp-action="Get" asp-controller="Book">Book</a>
+
+                        <span>|</span>
+                        <a asp-action="Add" asp-controller="Role">Role</a>
+
+                        <span>|</span>
+                        <span>@User.Identity.Name</span> <span>|</span>
+                        <a asp-controller="User" asp-action="SignOut">Sign Out</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="User" asp-action="SignUp">Sign Up</a>
+                        <span>|</span>
+                        <a asp-controller="User" asp-action="SignIn">Sign In</a>
+                    }
+                </header>
+                <main>
+                    @RenderBody()
+                </main>
+                <footer></footer>
+            </div>
+            <div class="col-2"></div>
+        </div>
+    </div>
+    <script src="~/Content/lib/jquery/jquery.min.js"></script>
+    <script src="~/Content/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/Content/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

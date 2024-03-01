@@ -1,0 +1,112 @@
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day2\MiniaDemoOfDayTwo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day3\MiniaDemo\ITI.Library.Models\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day4\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day5\MiniaDemo\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day7\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+D:\ITI\Previous\FirstQuarter\Courses\ASP.NTE MVC Core\Day8\MiniaDemo\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+F:\ITI\MVC\Day 8\ITI.Library.Presentation\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
+E:\ITI\MVC\Day 8\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.deps.json
+E:\ITI\MVC\Day 8\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.runtimeconfig.json
+E:\ITI\MVC\Day 8\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.dll
+E:\ITI\MVC\Day 8\ITI.Library.Models\bin\Debug\net6.0\ITI.Library.Models.pdb
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.AssemblyReference.cache
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfoInputs.cache
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.AssemblyInfo.cs
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.csproj.CoreCompileInputs.cache
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.dll
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\refint\ITI.Library.Models.dll
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.pdb
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ITI.Library.Models.genruntimeconfig.cache
+E:\ITI\MVC\Day 8\ITI.Library.Models\obj\Debug\net6.0\ref\ITI.Library.Models.dll
